@@ -1,5 +1,5 @@
 # Hi, I’m Saheb Singh Sandhu 👋  
-I’m a developer experienced in computer vision, edge AI,YOLO and embedded systems, with experience in containerized deployments and CI/CD workflows.
+I’m a developer experienced in computer vision, edge AI, YOLO, and embedded systems, with exposure to containerized deployments and CI/CD workflows.
 
 ## 🤝 Project Contributions in Hackathons
 
