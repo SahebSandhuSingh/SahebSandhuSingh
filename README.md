@@ -18,7 +18,7 @@ I’m a developer experienced in computer vision, edge AI, YOLO, and embedded sy
 **Tech Stack:** YOLOv8, XGBoost, OpenCV, ESP32, ONNX  
 
 - Contributed to YOLOv8-based behavior detection and converted trained models to ONNX for efficient, edge-deployable inference.
-- Assisted in Docker-based model packaging and CI/CD workflows to automate testing and deployment pipelines.
+- Contributed in deploying code to ESP32 CAM module 
 - Link-https://github.com/aditzz073/AIBSS
 
 ---
