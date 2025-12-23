@@ -22,7 +22,13 @@ I’m a developer experienced in computer vision, edge AI,YOLO and embedded syst
 - Link-https://github.com/aditzz073/AIBSS
 
 ---
+### NAAKSHATRA (Vayu-AI) | Contributor  
+**Aug 2025 – Sept 2025**  
+**Tech Stack:** ESP32, MQ-135, PIR Sensor, Raspberry Pi, Python, FastAPI, Random Forest, ONNX  
 
+- Contributed to building an IoT environmental monitoring system with ESP32 sensors streaming data to a centralized Raspberry Pi.
+- Assisted in training and deploying Random Forest models using ONNX Runtime on edge devices.
+---
 ### FixGoblin  
 **Nov 2025**  
 **Tech Stack:** Python, AST, Rule-Based Engine, FastAPI  
