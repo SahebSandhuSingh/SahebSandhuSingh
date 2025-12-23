@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I’m Saheb Singh Sandhu 👋  
+I’m a developer experienced in computer vision, edge AI,YOLO and embedded systems, with experience in containerized deployments and CI/CD workflows.
 
-<!--
-**SahebSandhuSingh/SahebSandhuSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤝 Project Contributions in Hackathons
 
-Here are some ideas to get you started:
+### Secureye | Contributor  
+**July 2025 – Aug 2025**  
+**Tech Stack:** OpenCV, YOLOv8, MediaPipe, ESP32, Arduino Uno  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Contributed to the computer vision pipeline by implementing OpenCV-based preprocessing and YOLOv8 models for real-time object and activity detection.
+- Supported containerized testing and deployment workflows using Docker to ensure reproducible vision inference environments.
+- Link-https://github.com/cybernerd95/BIT-hackathon
+
+---
+
+### AIBSS | Contributor  
+**Sept 2025**  
+**Tech Stack:** YOLOv8, XGBoost, OpenCV, ESP32, ONNX  
+
+- Contributed to YOLOv8-based behavior detection and converted trained models to ONNX for efficient, edge-deployable inference.
+- Assisted in Docker-based model packaging and CI/CD workflows to automate testing and deployment pipelines.
+- Link-https://github.com/aditzz073/AIBSS
+
+---
+
+### FixGoblin  
+**Nov 2025**  
+**Tech Stack:** Python, AST, Rule-Based Engine, FastAPI  
+
+- Built a fully local autonomous debugging system using compiler-inspired static analysis.
+- Implemented an AST-driven rule engine to generate and rank unified-diff patches for automated self-repair.
+- Designed a secure sandbox for isolated execution, error extraction, and multi-language patching.
+
+---
