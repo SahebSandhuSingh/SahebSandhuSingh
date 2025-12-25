@@ -3,6 +3,16 @@ I’m a developer experienced in computer vision, edge AI, YOLO, and embedded sy
 
 ## 🤝 Project Contributions in Hackathons
 
+### AI-Based Quality Assessment of Herbal Products | Contributor  
+**Sept 2025**  
+**Tech Stack:** Machine Learning, Data Analysis, Taste Sensors, Chemical Profiling
+
+- Contributed to an AI-based system for herbal product quality assessment and authenticity verification.
+- Worked with taste and chemical sensor data, applying machine learning for quality classification and adulteration detection.
+- Supported a non-destructive, sensor-driven evaluation approach aimed at food safety and regulatory quality assurance.
+
+---
+
 ### Secureye | Contributor  
 **July 2025 – Aug 2025**  
 **Tech Stack:** OpenCV, YOLOv8, MediaPipe, ESP32, Arduino Uno  
@@ -18,7 +28,8 @@ I’m a developer experienced in computer vision, edge AI, YOLO, and embedded sy
 **Tech Stack:** YOLOv8, XGBoost, OpenCV, ESP32, ONNX  
 
 - Contributed to YOLOv8-based behavior detection and converted trained models to ONNX for efficient, edge-deployable inference.
-- Contributed in deploying code to ESP32 CAM module 
+- Contributed in deploying code to ESP32 CAM module
+- Contributed in dockerisation 
 - Link-https://github.com/aditzz073/AIBSS
 
 ---
