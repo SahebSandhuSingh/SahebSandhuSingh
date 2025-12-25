@@ -10,6 +10,7 @@ I’m a developer experienced in computer vision, edge AI, YOLO, and embedded sy
 - Contributed to an AI-based system for herbal product quality assessment and authenticity verification.
 - Worked with taste and chemical sensor data, applying machine learning for quality classification and adulteration detection.
 - Supported a non-destructive, sensor-driven evaluation approach aimed at food safety and regulatory quality assurance.
+- Link-https://github.com/nikhiljainnnn/Gulaab-Jamun-E-Tongue
 
 ---
 
