@@ -93,6 +93,5 @@ Built an **automated code repair system** using a rule-based framework that dete
 
 <div align="center">
 
-*Currently open to collaborations on edge AI, vision pipelines, and anything that deploys on hardware 🔌*
 
 </div>
