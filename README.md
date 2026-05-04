@@ -91,20 +91,7 @@ Built an **IoT environmental monitoring system** — ESP32 sensor nodes streamin
 
 A **fully local autonomous debugger** using compiler-inspired static analysis. AST-driven rule engine generates and ranks unified-diff patches. Sandboxed execution for safe, multi-language error isolation.
 
----
-
 <div align="center">
-
-## 📊 Stats
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SahebSandhuSingh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahebSandhuSingh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=SahebSandhuSingh&theme=tokyonight&hide_border=true&background=0d1117" />
-
-<br/><br/>
 
 *Currently open to collaborations on edge AI, vision pipelines, and anything that deploys on hardware 🔌*
 
