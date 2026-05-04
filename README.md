@@ -4,8 +4,8 @@
 
 <br/>
 
-**Developer working at the intersection of computer vision, edge AI, and embedded systems.**  
-I build things that run on microcontrollers, see through cameras, and deploy in containers.
+**Developer building AI-powered backends, vision pipelines, and containerized systems.**  
+I ship software that scales — and when needed, push it all the way to the edge.
 
 <br/>
 
