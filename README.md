@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Saheb+%F0%9F%91%8B;Computer+Vision+%26+Edge+AI+Dev;Building+AI+that+runs+on+hardware" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Saheb+%F0%9F%91%8B;Computer+Vision+%26+Edge+AI+Developer;Shipping+ML+models+to+the+edge;Building+backends+that+power+smart+systems;YOLO+%7C+ONNX+%7C+FastAPI+%7C+Docker;From+sensor+data+to+deployed+inference" alt="Typing SVG" />
 
 <br/>
 
@@ -93,5 +93,6 @@ Built an **automated code repair system** using a rule-based framework that dete
 
 <div align="center">
 
+*Currently open to collaborations on edge AI, vision pipelines, and anything that deploys on hardware 🔌*
 
 </div>
