@@ -85,11 +85,11 @@ Built an **IoT environmental monitoring system** — ESP32 sensor nodes streamin
 
 ---
 
-### 🐛 FixGoblin &nbsp;·&nbsp; *Nov 2025*
+### 🐛 FixGoblin &nbsp;·&nbsp; *Oct – Dec 2025*
 
-`Python` `AST` `Rule-Based Engine` `FastAPI`
+`Python` `AST Parsing` `Sandbox Execution` `DSL Design`
 
-A **fully local autonomous debugger** using compiler-inspired static analysis. AST-driven rule engine generates and ranks unified-diff patches. Sandboxed execution for safe, multi-language error isolation.
+Built an **automated code repair system** using a rule-based framework that detects and fixes runtime and logical errors through structured AST transformations. Designed a custom DSL to define scalable repair rules and mutation strategies. Implemented sandboxed execution with automated validation for safe, correct test-case compliance.
 
 <div align="center">
 
